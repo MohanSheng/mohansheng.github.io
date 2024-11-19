@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Harvey South"
+title                    : "Mohan Sheng"
 title_separator          : "-"
-name                     : &name "Harvey South"
-description              : &description "A curated collection of my activity."
-url                      : https://www.harveysouth.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Mohan Sheng"
+description              : &description "My portfolio."
+url                      : https://www.mohansheng.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "HarveySouth/harveysouth.github.io"
+repository               : "MohanSheng/mohansheng.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "HarveySouth/harveysouth.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Harvey South"
+  name             : "Mohan Sheng"
   pronouns         : # example: "she/her"  
   bio              : "MSc Advanced Computer Science <br>@ The University of Manchester"
   location         : "USA / UK"
