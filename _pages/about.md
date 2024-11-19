@@ -15,11 +15,14 @@ redirect_from:
 </div>
 ---
 
-I'm a trained Computer Science specialist with a BSc and soon to achieve MSc in Computer Science. The majority of my Computer Science education relates to the management and processing of data. My primary interests lie in finding explainations for the behaviour of fundamental (foundational) Machine Learning techniques and then using this analysis to improve training algorithms, or at the intersection of Machine Learning and the natural sciences. 
+I am an enthusiastic GIS professional with extensive experience in both desk-based and field roles, where I have developed strong skills in geospatial analysis, environmental modelling, and remote sensing. I am actively expanding my expertise in GIS, programming, data management, analysis, and visualisation.
 
-Despite my primary interests, which require the use of mostly Python, its associated software stack, and sometimes C++, I also have experience in a number of languages spanning multiple paradigms e.g. Java, Solidity, ARM Assembly, Verilog, Prolog.
+I am proficient in ArcGIS, QGIS, Flood Modeller, Python, and RStudio, as well as other GIS software and technical skills. My academic background spans a variety of disciplines, including but not limited to geomatics engineering (I graduated from Wuhan University with a BSc in Geomatics), environmental monitoring (Soon to graduate from The University of Manchester with an MSc in Environmental Monitoring, Modelling and Reconstruction) and GIS applications (Across both). Additionally, I am highly skilled in Microsoft Office applications, including Excel, Word, and PowerPoint.
 
-I'm a passionate problem-solver, and endevour learn as much as possible in cross-disciplinary tasks. My projects can be found on my [Github Page](https://github.com/HarveySouth) or listed on my [Projects](/projects/) page.
+My past experiences allow me to effectively motivate and lead teams, tailoring strategies to meet both short-term and long-term objectives as required by the project. With this combination of technical expertise and communication skills, I am confident in my ability to make meaningful contributions to any organisation.
+
+阿巴阿巴I'm a passionate problem-solver, and endevour learn as much as possible in cross-disciplinary tasks. My projects can be found on my [Github Page](https://github.com/HarveySouth) or listed on my [Projects](/projects/) page.
 
 ## Hobbies
 My hobbies include [Ultimate Frisbee](images/ulti_photo.jpg), Video Games, Language Learning, and [playing Saxophone](images/sax_photo.jpg).
+阿巴阿巴Outside of work, I enjoy hiking, climbing, and travelling, embracing outdoor activities as a way to stay active and inspired.
