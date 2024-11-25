@@ -1,7 +1,7 @@
 ---
 title: "Statistical Analysis of Urban Road Traffic Using Time-Series Data from High-Resolution SAR Satellites"
 collection: projects
-type: "Undergraduate Dissertation"
+type: "BSc Dissertation"
 permalink: /projects/2023-Dissertation
 date: 2023-06-01
 venue: Wuhan University, GNSS Research Center
